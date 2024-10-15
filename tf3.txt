@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modified Third File
+=======
+Third file
+>>>>>>> f19a0a9 (Modified Third File)
